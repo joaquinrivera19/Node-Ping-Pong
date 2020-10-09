@@ -1,6 +1,6 @@
 # Node-Ping-Pong
 
-## Node Ping-Pong - sample code demonstrating nodejs request/response behavior..
+## Node Ping-Pong - sample code demonstrating nodejs request/response behavior.
 
 Se clona el repositorio e instalan las dependencias:
 
